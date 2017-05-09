@@ -33,5 +33,5 @@ The code included in this sample is intended to get you quickly started with a N
 
 - [Azure Cosmos DB](https://docs.microsoft.com/azure/cosmos-db/introduction)
 - [Azure Cosmos DB : DocumentDB API](https://docs.microsoft.com/azure/documentdb/documentdb-introduction)
-- [Azure DocumentDB Node.js SDK](https://docs.microsoft.com/azure/cosmos-db/documentdb-sdk-node)
+- [Azure DocumentDB Node.js SDK](https://docs.microsoft.com/azure/documentdb/documentdb-sdk-node)
 - [Azure DocumentDB Node.js SDK Reference Documentation](http://azure.github.io/azure-documentdb-node/)
