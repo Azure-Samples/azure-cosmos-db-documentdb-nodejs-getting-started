@@ -4,7 +4,7 @@ platforms: nodejs
 author: andrewhoh
 ---
 
-# Developing a Node.js app using Azure Cosmos DB
+# Developing a Node.js app with DocumentDB using Azure Cosmos DB
 Azure Cosmos DB is a globally distributed multi-model database. One of the supported APIs is the DocumentDB API, which provides a JSON document model with SQL querying and JavaScript procedural logic. This sample shows you how to use the Azure Cosmos DB with the DocumentDB API to store and access data from a Node.js application.
 
 ## Running this sample
