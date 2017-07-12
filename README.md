@@ -14,9 +14,9 @@ Azure Cosmos DB is a globally distributed multi-model database. One of the suppo
 	* [Git](http://git-scm.com/).
 
 
-1. Clone this repository using `git clone git@github.com:Azure-Samples/azure-cosmos-db-documentdb-nodejs-getting-started.git`
+1. Clone this repository using `git clone git@github.com:Azure-Samples/azure-cosmos-db-documentdb-nodejs-getting-started.git cosmosdb`
 
-2. Change directories to the repo using `cd azure-cosmos-db-documentdb-nodejs-getting-started`
+2. Change directories to the repo using `cd cosmosdb`
 
 3. Next, substitute the endpoint and authorization key in `config.js` with your Cosmos DB account's values.
 
