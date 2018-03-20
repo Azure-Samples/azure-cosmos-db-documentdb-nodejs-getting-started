@@ -9,7 +9,7 @@ Azure Cosmos DB is a globally distributed multi-model database. One of the suppo
 
 ## Running this sample
 * Before you can run this sample, you must have the following perquisites:
-	* An active Azure Cosmos dB account - If you don't have an account, refer to the [Create an Azure Cosmos DB account](https://docs.microsoft.com/en-us/azure/cosmos-db/create-sql-api-nodejs#create-a-database-account) article.
+	* An active Azure Cosmos DB account - If you don't have an account, refer to the [Create an Azure Cosmos DB account](https://docs.microsoft.com/en-us/azure/cosmos-db/create-sql-api-nodejs#create-a-database-account) article.
 	* [Node.js](https://nodejs.org/en/) version v0.10.29 or higher.
 	* [Git](http://git-scm.com/).
 
